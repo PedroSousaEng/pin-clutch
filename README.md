@@ -1,8 +1,7 @@
 # pin-clutch
-Pedal-actuated Pin Clutch mechanism featuring CAD design, kinematic analysis, engineering calculations, and functional prototype developmen
-# Pin Clutch with Pedal Actuation
+Pedal-actuated Pin Clutch mechanism featuring CAD design, kinematic analysis, engineering calculations, and functional prototype development.
 
-> **⚠️ Note:** The complete CAD files, technical drawings, calculations, and source files are **private** because they contain academic work and project documentation. This repository is intended to showcase the project and its engineering process.
+# Pin Clutch with Pedal Actuation
 
 ## Overview
 
